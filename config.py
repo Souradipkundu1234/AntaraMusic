@@ -13,7 +13,7 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME", "iamakki001")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "icxasta")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME", "odsmusicbot")
 # --------------------------------------------------------
@@ -53,8 +53,8 @@ UPSTREAM_REPO = getenv(
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ixasta1")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ixasta1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AntaraUpdates")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/AntaraUpdates")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 
