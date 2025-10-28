@@ -48,7 +48,7 @@ API_KEY = getenv("API_KEY", 'NxGBNexGenBots4e1026') # youtube song api key
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/laiba-music/Laiba_music",
+    "https://github.com/Souradipkundu1234/AntaraMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)  # Fill this variable if your upstream repository is private
