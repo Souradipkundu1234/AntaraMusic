@@ -1,9 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-𝐁 𝐀 𝐃 𝐍 𝐀 𝐌 
+𝗔 𝗡 𝗧 𝗔 𝗥 𝗔 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-𝗧𝗘𝗔𝗠 𝗞𝗥𝗜𝗧𝗜 𝗕𝗢𝗧𝗦
+𝗔𝗡𝗧𝗔𝗥𝗔 𝗠𝗨𝗦𝗜𝗖
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
