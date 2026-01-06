@@ -31,7 +31,7 @@ from SHUKLAMUSIC import LOGGER
 # =========================
 
 DOWNLOAD_DIR = "downloads"
-COOKIE_DIR = "AdnanXMusic/assets/cookies"
+COOKIE_DIR = "AntaraMusic/assets/cookies"
 
 os.makedirs(DOWNLOAD_DIR, exist_ok=True)
 
